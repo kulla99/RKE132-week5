@@ -1,0 +1,15 @@
+C:\Users\pere\source\repos\week5\ANDoperator\bin\Debug\net6.0\ANDoperator.exe
+C:\Users\pere\source\repos\week5\ANDoperator\bin\Debug\net6.0\ANDoperator.deps.json
+C:\Users\pere\source\repos\week5\ANDoperator\bin\Debug\net6.0\ANDoperator.runtimeconfig.json
+C:\Users\pere\source\repos\week5\ANDoperator\bin\Debug\net6.0\ANDoperator.dll
+C:\Users\pere\source\repos\week5\ANDoperator\bin\Debug\net6.0\ANDoperator.pdb
+C:\Users\pere\source\repos\week5\ANDoperator\obj\Debug\net6.0\ANDoperator.csproj.AssemblyReference.cache
+C:\Users\pere\source\repos\week5\ANDoperator\obj\Debug\net6.0\ANDoperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pere\source\repos\week5\ANDoperator\obj\Debug\net6.0\ANDoperator.AssemblyInfoInputs.cache
+C:\Users\pere\source\repos\week5\ANDoperator\obj\Debug\net6.0\ANDoperator.AssemblyInfo.cs
+C:\Users\pere\source\repos\week5\ANDoperator\obj\Debug\net6.0\ANDoperator.csproj.CoreCompileInputs.cache
+C:\Users\pere\source\repos\week5\ANDoperator\obj\Debug\net6.0\ANDoperator.dll
+C:\Users\pere\source\repos\week5\ANDoperator\obj\Debug\net6.0\refint\ANDoperator.dll
+C:\Users\pere\source\repos\week5\ANDoperator\obj\Debug\net6.0\ANDoperator.pdb
+C:\Users\pere\source\repos\week5\ANDoperator\obj\Debug\net6.0\ANDoperator.genruntimeconfig.cache
+C:\Users\pere\source\repos\week5\ANDoperator\obj\Debug\net6.0\ref\ANDoperator.dll

@@ -1,0 +1,15 @@
+C:\Users\pere\source\repos\week5\ANDranges\bin\Debug\net6.0\ANDranges.exe
+C:\Users\pere\source\repos\week5\ANDranges\bin\Debug\net6.0\ANDranges.deps.json
+C:\Users\pere\source\repos\week5\ANDranges\bin\Debug\net6.0\ANDranges.runtimeconfig.json
+C:\Users\pere\source\repos\week5\ANDranges\bin\Debug\net6.0\ANDranges.dll
+C:\Users\pere\source\repos\week5\ANDranges\bin\Debug\net6.0\ANDranges.pdb
+C:\Users\pere\source\repos\week5\ANDranges\obj\Debug\net6.0\ANDranges.csproj.AssemblyReference.cache
+C:\Users\pere\source\repos\week5\ANDranges\obj\Debug\net6.0\ANDranges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pere\source\repos\week5\ANDranges\obj\Debug\net6.0\ANDranges.AssemblyInfoInputs.cache
+C:\Users\pere\source\repos\week5\ANDranges\obj\Debug\net6.0\ANDranges.AssemblyInfo.cs
+C:\Users\pere\source\repos\week5\ANDranges\obj\Debug\net6.0\ANDranges.csproj.CoreCompileInputs.cache
+C:\Users\pere\source\repos\week5\ANDranges\obj\Debug\net6.0\ANDranges.dll
+C:\Users\pere\source\repos\week5\ANDranges\obj\Debug\net6.0\refint\ANDranges.dll
+C:\Users\pere\source\repos\week5\ANDranges\obj\Debug\net6.0\ANDranges.pdb
+C:\Users\pere\source\repos\week5\ANDranges\obj\Debug\net6.0\ANDranges.genruntimeconfig.cache
+C:\Users\pere\source\repos\week5\ANDranges\obj\Debug\net6.0\ref\ANDranges.dll

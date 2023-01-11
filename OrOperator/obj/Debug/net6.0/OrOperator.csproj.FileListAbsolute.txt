@@ -1,0 +1,15 @@
+C:\Users\pere\source\repos\week5\OrOperator\obj\Debug\net6.0\OrOperator.csproj.AssemblyReference.cache
+C:\Users\pere\source\repos\week5\OrOperator\obj\Debug\net6.0\OrOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pere\source\repos\week5\OrOperator\obj\Debug\net6.0\OrOperator.AssemblyInfoInputs.cache
+C:\Users\pere\source\repos\week5\OrOperator\obj\Debug\net6.0\OrOperator.AssemblyInfo.cs
+C:\Users\pere\source\repos\week5\OrOperator\obj\Debug\net6.0\OrOperator.csproj.CoreCompileInputs.cache
+C:\Users\pere\source\repos\week5\OrOperator\bin\Debug\net6.0\OrOperator.exe
+C:\Users\pere\source\repos\week5\OrOperator\bin\Debug\net6.0\OrOperator.deps.json
+C:\Users\pere\source\repos\week5\OrOperator\bin\Debug\net6.0\OrOperator.runtimeconfig.json
+C:\Users\pere\source\repos\week5\OrOperator\bin\Debug\net6.0\OrOperator.dll
+C:\Users\pere\source\repos\week5\OrOperator\bin\Debug\net6.0\OrOperator.pdb
+C:\Users\pere\source\repos\week5\OrOperator\obj\Debug\net6.0\OrOperator.dll
+C:\Users\pere\source\repos\week5\OrOperator\obj\Debug\net6.0\refint\OrOperator.dll
+C:\Users\pere\source\repos\week5\OrOperator\obj\Debug\net6.0\OrOperator.pdb
+C:\Users\pere\source\repos\week5\OrOperator\obj\Debug\net6.0\OrOperator.genruntimeconfig.cache
+C:\Users\pere\source\repos\week5\OrOperator\obj\Debug\net6.0\ref\OrOperator.dll
